@@ -1,2 +1,2 @@
-# tetiana-kononykhina-homepage
+# Tetiana-kononykhina-homepage
 My very own personal website. Basically this is just a résumé.
